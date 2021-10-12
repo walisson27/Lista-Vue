@@ -13,6 +13,7 @@ Tecnologias utilizadas no projeto:
 Para Executar Projeto: 
 
 1- yarn install 
+
 2- yarn serve
 
 projeto estará rodando em http://localhost:8080
