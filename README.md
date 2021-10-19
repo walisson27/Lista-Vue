@@ -11,6 +11,9 @@ Tecnologias utilizadas no projeto:
 - Animate.css
 - Localbase
 
+- [Link do Projeto](https://lista-vue.vercel.app/)
+
+
 Para Executar Projeto: 
 
 1- yarn install 
