@@ -77,14 +77,6 @@ export default {
           titulo: "Drag and Drop",
           icon: "mdi-drag-variant"
         },
-        {
-          titulo: "Git",
-          icon: "mdi-git"
-        },
-        {
-          titulo: "GitHub",
-          icon: "mdi-github"
-        },
       ]
     }
   }
