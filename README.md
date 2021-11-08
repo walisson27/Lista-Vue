@@ -1,8 +1,28 @@
-# Lista de tarefas com Vue.js
+<h1 align="center">
+    Lista de Tarefas
+</h1>
 
-Tecnologias utilizadas no projeto:
+<h4 align="center">
+  🚀 Lista de Tarefas Desenvolvida com Vuejs
+</h4>
 
-- HTML
+<p align="center">
+  <a href="https://lista-vue.vercel.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  
+</p>
+
+<br>
+
+<p align="center">
+  <img src="">
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 - Vue.js
 - Vuetify
 - VUEX
@@ -11,13 +31,17 @@ Tecnologias utilizadas no projeto:
 - Animate.css
 - Localbase
 
-- [Link do Projeto](https://lista-vue.vercel.app/)
+<br>
 
+## 💻 Instalação
 
-Para Executar Projeto: 
+Para iniciar o **Projeto** utilize os comandos:
 
-1- yarn install 
+```bash
+yarn install
+yarn start
+```
 
-2- yarn serve
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080`.
 
-projeto estará rodando em http://localhost:8080
+Feito por [Walisson Souza](https://github.com/walisson27)
