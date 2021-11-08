@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Lista de Tarefas Desenvolvida com Vuejs
+  🚀 Lista de Tarefas Desenvolvido com Vuejs
 </h4>
 
 <p align="center">
